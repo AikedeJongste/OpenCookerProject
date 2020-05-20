@@ -23,5 +23,5 @@ For a couple of reasons actually. The first being to prevent spoiling and food t
 I want to start slowly and I am collecting skills and information. I'm also getting to know people that may be interested and want to help. I have worked for a startup that made 3D-printers so I have some knowledge of the process of building a machine. I can code and manage servers. And I can cook. Hehe. 
 The first steps could be some drawings, some very simple recipies and maybe a list of features that a minimal viable product should have. 
 
-## Do you want help? I have an idea!
-Feel free to contact me, open a pull request or start by yourself.
+## Collaboration
+I haven't really started but I would like to hear ideas. Feel free to contact me, open a pull request or start by yourself.
